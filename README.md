@@ -1,4 +1,5 @@
 # Taller Semana 10
+![taller 10 captura] (![image](https://github.com/PlataformasWeb-P-AA2024/taller09-semana10-grupo-jr/assets/92813788/5ba640be-0f1e-4ae7-9c50-dfd20987ec62)
 
 
 ## Acciones previas al taller
