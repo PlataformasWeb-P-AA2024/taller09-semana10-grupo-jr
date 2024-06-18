@@ -16,6 +16,8 @@ class Estudiante(models.Model):
     edad = models.IntegerField("edad de estudiante") # Verbose field names
     tipo_estudiante = models.CharField(max_length=30, \
             choices=opciones_tipo_estudiante)
+    
+    
     modulos = models.ManyToManyField('Modulo', through='Matricula')
 
 
